@@ -9,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*header properties */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,17 +43,18 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* links will be a white color */
+/* link properties */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* paragraph properties */
 p {
     font-size: 16px;
 }
 
-/* hero/jumbotron */
+/* hero/jumbotron properties*/
 .hero {
     height: 800px;
     width: 100%;
@@ -62,22 +64,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* benefits properites */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -137,6 +124,23 @@ p {
     max-width: 150px;
 }
 
+/* purposes properties*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -191,6 +195,7 @@ p {
     font-size: 36px;
 }
 
+/*footer properties */
 footer {
     padding: 30px;
     clear: both;
