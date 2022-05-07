@@ -5,11 +5,23 @@ In this project, we were asked to refractor the code to be more accessible for p
 
 ## 💡 Acceptance Criteria
 * It is done when the source code has semantic elements.
+
 * It is done when image elements have accessible alt attributes. 
+
 * It is done when the title element is concise and descriptive.
+
 * It is done when all links function correctly.
+
 * It is done when the CSS file is properly commented and organized to follow semantic structure. 
 
 ## 👀 Project Visuals
+The following images demonstrate the webpage's appearance: 
 
-## Project Usage
+[Header, Navigation, and Hero Screenshot](./assets/images/hero-screenshot.jpg)
+
+[Purpose, Benefits, and Footer Screenshot](./assets/images/purpose-benefits-footer-screenshot.jpg)
+
+## 🌐 Project Usage
+To view the webpage for Horiseon, please click on the following link: 
+
+[Horiseon: Social Media Marketing Done Right](https://yvettesalinas.github.io/horiseon/)
